@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "189904175536",
+    "project_id": "cibus-428b7",
+    "storage_bucket": "cibus-428b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189904175536:android:e77cde694f945fabda9675",
+        "android_client_info": {
+          "package_name": "com.kevalbotadra.cibus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189904175536-f9fg48qjct47q76cb82jmuqpo1fv327u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevalbotadra.cibus",
+            "certificate_hash": "017ad05fd734bf04a339f1c8db26e3e797963b74"
+          }
+        },
+        {
+          "client_id": "189904175536-9cnlagvtjffg56jkte6t0g81li3k6jqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiuiKzLPsegBoWQxiexV87I8WdajckDWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189904175536-9cnlagvtjffg56jkte6t0g81li3k6jqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
