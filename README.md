@@ -1,5 +1,7 @@
 # Cibus
 
+Video (with demo) can be found at: https://devpost.com/software/cibus-57ghn4
+
 ## Inspiration
 We gathered a lot of our inspiration from former experiences, more specifically, the experiences of two of our team members who are former chipotle employees. Although we learned a lot from there, one part of the job never stood right with us, and that was the fact that at the end of every night, they threw out any food that wasn't beans or meat. This meant that some nights, the store was throwing away pans of rice, tens of bags of chips, and so much more. When first learning about this hackathon and beginning our brainstorming process we immediately thought back to this experience. 
 
